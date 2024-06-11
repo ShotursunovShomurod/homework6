@@ -1,0 +1,10 @@
+@import"reset";
+// block
+@import"block/_navbar__suptitle.scss";
+@import"block/navbar";
+@import"block/_navbar__subtitle.scss";
+@import"block/hero";
+@import"block/footer";
+body{
+    height: 700vh;
+}
